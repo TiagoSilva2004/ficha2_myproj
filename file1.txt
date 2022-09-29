@@ -2,5 +2,7 @@ Eliminei a primeira linha e escrevi esta!!
 
 Estou a fazer alterações no ficheiro
 
-
+<<<<<<<<<< HEAD
 Alteracoes efetuadas no branch NovaFeature
+==========
+Alteracao no branch MASTER
