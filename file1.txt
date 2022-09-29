@@ -1,3 +1,6 @@
 Eliminei a primeira linha e escrevi esta!!
 
 Estou a fazer alterações no ficheiro
+
+
+Alteracoes efetuadas no branch NovaFeature
