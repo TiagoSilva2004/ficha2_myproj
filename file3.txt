@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> master
 Este e o exemplo de um ficheiro de texto file3
 
 <h2>Bebidas</h2>
@@ -9,6 +12,9 @@ Este e o exemplo de um ficheiro de texto file3
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
+=======
+<<<<<<< HEAD
+>>>>>>> master
 =======
 >>>>>>> master
 <h1>Listas de coisas</h1>
@@ -21,6 +27,10 @@ Este e o exemplo de um ficheiro de texto file3
   <li>Tostas</li>
   <li>Sandes</li>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> NovaFeature
+>>>>>>> master
 =======
 >>>>>>> NovaFeature
 >>>>>>> master

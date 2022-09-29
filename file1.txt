@@ -4,5 +4,10 @@ Estou a fazer alterações no ficheiro
 
 <<<<<<<<<< HEAD
 Alteracoes efetuadas no branch NovaFeature
+<<<<<<< HEAD
 ==========
 Alteracao no branch MASTER
+=======
+Alteracao no branch MASTER
+>>>>>>>>> master
+>>>>>>> master
